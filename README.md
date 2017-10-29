@@ -4,13 +4,11 @@ This script will measure the temperature and humidity using the DHT11 sensor wit
 ## Preview:
 Video: https://www.youtube.com/watch?v=G6UH2HAJyKI
 
-![](https://i.imgur.com/d9zMDdJ.png)
 
+![](https://i.imgur.com/d9zMDdJ.png)
 ![](https://i.imgur.com/ILitw69.jpg)
 ![](https://i.imgur.com/7bcjIxg.jpg)
-
 ![](https://i.imgur.com/bAfSiK2.jpg)
-
 ![](https://i.imgur.com/QuNvynX.jpg)
 ![](https://i.imgur.com/ZEEHjHJ.jpg)
 
